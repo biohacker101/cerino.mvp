@@ -5,7 +5,7 @@ import type React from "react"
 import { useState } from "react"
 import Link from "next/link"
 import { useRouter } from "next/navigation"
-import { FileText, Lock, Mail, User } from "lucide-react"
+import { Lock, Mail, User } from "lucide-react"
 import Image from 'next/image'
 
 import { Button } from "@/components/ui/button"
